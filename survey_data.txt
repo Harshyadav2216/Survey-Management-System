@@ -1,0 +1,37 @@
+User ID: 100
+Name: ASHIF ALI ANSARI
+Age: 20
+Father's Name: MOHAMMAD ASHRAF ANSARI
+Marital Status: UNMARRIED
+Occupation: STUDENT
+Salary: NULL
+Gender: MALE
+Family Members: 5
+Home/Building No.: 42
+Village: BALHAN
+Post Office: BISHUNPURA
+Police Station: BARAULI
+District: GOPALGANJ
+State: BIHAR
+Pincode: 841407
+Mobile Number: 7366966022
+Vehicles: BIKE:BR8783
+----------------------------------------
+User ID: 101
+Name: MOHAMMAD NADEEM JAUHAR
+Age: 19
+Father's Name: MOHAMMAD YASIN JAUHAR
+Marital Status: UNMARRIED
+Occupation: STUDENT
+Salary: NULL
+Gender: MALE
+Family Members: 6
+Home/Building No.: 45
+Village: BALHAN
+Post Office: BISHUNPURA
+Police Station: BARAULI
+District: GOPALGANJ
+State: BIHAR
+Pincode: 841407
+Mobile Number: 9155440055
+Vehicles: BIKE:BR1000

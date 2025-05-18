@@ -1,0 +1,18 @@
+User ID: 102
+Name: asif
+Age: 19
+Father's Name: ashraf
+Marital Status: unmarried
+Occupation: student'
+Salary: null
+Gender: male
+Family Members: 
+Home/Building No.: 
+Village: balhan
+Post Office: bishunppura
+Police Station: barauli
+District: gopalganj
+State: bihar
+Pincode: 841407
+Mobile Number: 3434463463
+Vehicles: car:12
